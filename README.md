@@ -4,22 +4,22 @@ Projeto Front-End desenvolvido em React para cálculo do Índice de Massa Corpor
 
 🚀 Tecnologias utilizadas
 
-React.js
+- React.js
 
-JavaScript
+- JavaScript
 
-CSS3
+- CSS3
 
-HTML5
+- HTML5
 
 ⚙️ Funcionalidades
 
-Cálculo automático de IMC
+- Cálculo automático de IMC
 
-Validação de dados inseridos
+- Validação de dados inseridos
 
-Exibição de classificação corporal
+- Exibição de classificação corporal
 
-Interface intuitiva e responsiva
+- Interface intuitiva e responsiva
 
-Atualização dinâmica dos resultados
+- Atualização dinâmica dos resultados
